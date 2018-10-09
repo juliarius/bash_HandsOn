@@ -1,0 +1,59 @@
+0a1
+> Whole_Blood
+7c8
+< Small_Intestine
+---
+> Small_Intestine_-_Terminal_Ileum
+9,10c10
+< Skin
+< Salivary_Gland
+---
+> Skin_-_Not_Sun_Exposed_(Suprapubic)
+15,16c15,17
+< Nerve
+< Muscle
+---
+> Nerve_-_Tibial
+> Muscle_-_Skeletal
+> Minor_Salivary_Gland
+19,20c20,22
+< Kidney
+< Heart
+---
+> Kidney_-_Cortex
+> Heart_-_Left_Ventricle
+> Heart_-_Atrial_Appendage
+21a24
+> Esophagus_-_Muscularis
+23,29c26,46
+< Esophagus
+< Colon
+< Cervix_Uteri
+< Breast
+< Brain
+< Blood_Vessel
+< Blood
+---
+> Esophagus_-_Gastroesophageal_Junction
+> Colon_-_Transverse
+> Colon_-_Sigmoid
+> Cervix_-_Endocervix
+> Cervix_-_Ectocervix
+> Cells_-_Transformed_fibroblasts
+> Cells_-_EBV-transformed_lymphocytes
+> Breast_-_Mammary_Tissue
+> Brain_-_Substantia_nigra
+> Brain_-_Spinal_cord_(cervical_c-1)
+> Brain_-_Putamen_(basal_ganglia)
+> Brain_-_Nucleus_accumbens_(basal_ganglia)
+> Brain_-_Hypothalamus
+> Brain_-_Hippocampus
+> Brain_-_Frontal_Cortex_(BA9)
+> Brain_-_Cortex
+> Brain_-_Cerebellum
+> Brain_-_Cerebellar_Hemisphere
+> Brain_-_Caudate_(basal_ganglia)
+> Brain_-_Anterior_cingulate_cortex_(BA24)
+> Brain_-_Amygdala
+31a49
+> 
